@@ -8,7 +8,7 @@ def bildirim_goster():
         timeout=10
     )
 
-# Kullanıcıdan bildirim süresini dakika cinsinden alın
+
 bekleme_suresi = int(input("Bildirim süresini dakika cinsinden girin: ")) * 60
 
 while True:
