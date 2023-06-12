@@ -12,6 +12,7 @@ pip install win10toast
 ```
 
 Uyarılar Windows görünmüyorsa bildirimleri aktif hale getirmeniz gerekir.
-Ayarlar -> Sistem -> Bildirimler ve eylemler menüsüne
+Ayarlar -> Sistem -> Bildirimler ve eylemler menüsüne<br>
+<br>
 ![Containers](https://raw.githubusercontent.com/magwyen/remind-water/main/notifications.jpg)
 
